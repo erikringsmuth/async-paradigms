@@ -1,0 +1,25 @@
+{
+  "name": "async-paradigms",
+  "author": "Erik Ringsmuth <erik.ringsmuth@gmail.com>",
+  "license": "ISC",
+  "version": "0.0.0",
+  "description": "demonstrating async paradigms in node.js",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/erikringsmuth/async-paradigms.git"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "node"
+  ],
+  "devDependencies": {
+    "mocha": "~1.18.2",
+    "gulp": "~3.6.0",
+    "gulp-mocha": "~0.4.1",
+    "gulp-jshint": "~1.5.3",
+    "jshint-stylish": "~0.1.5"
+  }
+}
